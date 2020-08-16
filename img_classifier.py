@@ -8,6 +8,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
 import tensorflow as tf
 import pandas as pd
+import sklearn.metrics as metrics
 
 print("Hi")
 
